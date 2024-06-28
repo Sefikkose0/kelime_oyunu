@@ -1,22 +1,44 @@
 # Oyun Açıklaması
  
-Bu oyun, oyuncuların dikkat ve hafıza becerilerini geliştirmeye yönelik olarak tasarlanmıştır. Oyuncunun görevi, ekranda gösterilen nesnenin adını doğru bir şekilde tahmin etmektir. Oyunun ekran görüntüsünde de görüldüğü üzere, oyuncuya bir resim (bu durumda muz) ve boş kutucuklar verilmiştir. Oyuncu, bu nesnenin adını doğru harfleri seçerek tamamlamalıdır.
+1. Giriş
+Bu oyun, oyuncuların dikkat, hafıza ve hesap yeteneklerini geliştirmeye yönelik bir eğitim aracı olarak tasarlanmıştır. Oyun, oyunculara çeşitli nesnelerin resimlerini göstererek ve onların adlarını tahmin etmelerini sağlayarak dikkat ve hafıza becerilerini ölçer. Ek olarak, hesap yeteneklerini geliştiren mini oyunlar içerir.
 
-Dikkat ve Hafıza Kullanımı
+2. Oyun Amacı
+Oyunun temel amacı, oyuncuların görsel dikkatini ve hafızasını güçlendirmek, kelime dağarcıklarını genişletmek ve matematiksel düşünme becerilerini geliştirmektir. Oyuncular, ekranda gösterilen nesnenin adını doğru bir şekilde tahmin etmeye çalışırken, aynı zamanda verilen mini matematiksel problemleri çözerek puan kazanırlar.
 
+3. Dikkat, Hafıza ve Hesap Yeteneklerinin Ölçülmesi
+3.1 Dikkat
+Görsel Tanıma: Oyunculara çeşitli nesnelerin resimleri gösterilir. Oyuncular, nesneleri dikkatlice inceleyerek tanımlamalıdır.
+Harf Seçimi: Oyuncular, doğru harfleri seçerek nesnenin adını tamamlamalıdır. Bu, dikkatli bir gözlem ve analiz gerektirir.
+3.2 Hafıza
+Kelime Bilgisi: Oyuncular, daha önce öğrendikleri kelimeleri hatırlayarak nesnenin adını tahmin etmelidir.
+Harflerin Yerleşimi: Oyuncular, seçtikleri harflerin doğru sıralamasını hatırlamalıdır.
+3.3 Hesap Yeteneği
+Matematik Problemleri: Oyuncular, belirli aralıklarla karşılarına çıkan basit matematik problemlerini çözerek puan kazanırlar. Bu problemler, toplama, çıkarma, çarpma ve bölme işlemlerini içerebilir.
+4. Puanlama Sistemi
+Doğru Harf Seçimi: Doğru harfler için oyunculara her doğru seçimde 10 puan verilir.
+Yanlış Harf Seçimi: Yanlış harfler için oyuncular her yanlış seçimde 5 puan kaybeder.
+Matematik Problemleri: Her doğru çözülen matematik problemi için 20 puan verilir.
+Toplam Puan: Oyuncuların toplam puanı, doğru harf seçimleri ve çözülen matematik problemlerinin toplam puanıdır.
+5. 10 Haftalık İş Planı
+Hafta 1-2: Proje Planlaması ve Gereksinim Analizi
+Projenin genel hatları belirlenir.
+Gereksinimler ve teknik detaylar analiz edilir.
+Hafta 3-4: Tasarım
+Oyun arayüzü ve kullanıcı deneyimi tasarlanır.
+Hafta 5-6: Geliştirme - Temel Mekanikler
+Oyun mekanikleri ve temel fonksiyonlar kodlanır.
+Görsel tanıma ve harf seçimi özellikleri geliştirilir.
+Hafta 7-8: Geliştirme - Ek Özellikler
+Matematik problemleri ve puanlama sistemi eklenir.
+Test senaryoları oluşturulur ve erken testler yapılır.
+Hafta 9: Test ve Hata Ayıklama
+Oyunun tüm fonksiyonları kapsamlı şekilde test edilir.
+Hatalar düzeltilir ve performans iyileştirmeleri yapılır.
+Hafta 10: Son Düzenlemeler ve Teslim
+Oyunun son düzenlemeleri yapılır.
+Kullanıcı belgeleri ve yardım dosyaları hazırlanır.
 
-Görsel Tanıma: Oyuncu, ekranda gösterilen nesneyi dikkatlice incelemeli ve tanımalıdır. Bu, oyuncunun görsel dikkatini kullanarak nesnenin ne olduğunu anlamasını sağlar.
-Harf Seçimi: Oyuncu, harfleri seçerken doğru harfleri dikkatlice seçmelidir. Yanlış bir harf seçimi, oyunun ilerleyişini olumsuz etkileyebilir.
-Hafıza:
-
-Kelime Bilgisi: Oyuncunun hafızasındaki kelime bilgisi, gösterilen nesnenin adını hatırlamasına yardımcı olur. Bu, oyuncunun daha önce öğrendiği kelimeleri hatırlamasını gerektirir.
-Harflerin Yerleşimi: Oyuncu, seçtiği harflerin doğru yerleşimini hatırlamalıdır. Örneğin, "muz" kelimesinde hangi harflerin hangi sırayla yer aldığını hatırlamak, doğru tahmin yapmayı kolaylaştırır.
-Oyun Mekanikleri
-Resim Gösterimi: Her turda, oyuncuya yeni bir nesnenin resmi gösterilir.
-Boş Kutucuklar: Nesnenin adını tahmin edebilmesi için oyuncuya ipucu olarak boş kutucuklar verilir.
-Harf Seçimi: Oyuncu, ekrandaki harflerden doğru olanları seçerek kelimeyi tamamlamaya çalışır.
-Yanlış Seçimler: Yanlış harf seçimleri oyuncunun puanını düşürebilir veya oyunu kaybetmesine neden olabilir.
-Bu oyun, oyuncuların dikkat ve hafıza becerilerini eğlenceli bir şekilde geliştirmelerini sağlarken, aynı zamanda kelime dağarcıklarını da genişletir
 
 ## Complete Tutorial
 [![LogoQuiz](http://img.youtube.com/vi/VcxnSCADlGU/0.jpg)](http://www.youtube.com/watch?v=VcxnSCADlGU)
