@@ -48,14 +48,12 @@ Kullanıcı belgeleri ve yardım dosyaları hazırlanır.
 
 <div align="left">
 
-### Show some ❤️ and Support!
 
-<a href="https://www.patreon.com/bePatron?u=2787703">
-  <img src="https://user-images.githubusercontent.com/39331790/55590317-6c603c80-572a-11e9-8f26-c5976ecf685b.png" width="200" height="47"/>
-</a>
 
-<a href="https://www.buymeacoffee.com/Madfireon">
-  <img src="https://www.the3rdsequence.com/texturedb/images/donate/buymeacoffee.svg" width="200" height="47"/>
-</a>
+![Ekran görüntüsü 2024-06-28 143209](https://github.com/Sefikkose0/kelime_oyunu/assets/92820796/d5f99d0d-2535-42b0-b3c3-09e70ca6ad32)
+![Ekran görüntüsü 2024-06-28 143154](https://github.com/Sefikkose0/kelime_oyunu/assets/92820796/f3370a76-2c4c-4a7c-ad24-6b01c7faf12d)
+![Ekran görüntüsü 2024-06-28 143142](https://github.com/Sefikkose0/kelime_oyunu/assets/92820796/ac68562b-d2d2-4934-bf86-23120b254d7e)
 
-</div>
+
+https://github.com/Sefikkose0/kelime_oyunu/assets/92820796/64fa60a3-ba83-4cb1-a3e4-9e9cef3f4cfe
+
